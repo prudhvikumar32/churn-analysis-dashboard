@@ -2,7 +2,7 @@
 
 This repository showcases a Power BI dashboard analyzing customer churn across various dimensions such as age, gender, tenure, and service usage. The goal is to identify churn trends and support data-driven decision-making for improving customer retention strategies.
 
-![Dashboard Screenshot](assets/churn_dashboard_screenshot.png)
+![Dashboard Screenshot](assets/churn_dashboard_screenshot.png.png)
 
 ## 📊 Key Features
 - Dynamic analysis by age group and tenure  
